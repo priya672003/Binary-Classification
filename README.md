@@ -25,7 +25,9 @@ Binary classification refers to predicting one of two classes and multi-class cl
 ## Program:
 
 Program to implement binary classification.
+
 Developed by: PRIYADARSHINI R 
+
 RegisterNumber: 212220230038
 
 ```
